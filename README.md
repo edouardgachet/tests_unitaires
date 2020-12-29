@@ -9,14 +9,12 @@ Ce fichier contient la creation du service toDoList, vous y trouverez :
   - Les méthodes respectives de User et EmailService
 
 ## toDoListTest.js
-** 
-Ce fichier contient l'ensemble des tests de la class User :
-**
 
-## emailServiceTest.js
-** 
+Ce fichier contient l'ensemble des tests de la class User :
+
+## emailServiceTest.js 
+
 Ce fichier contient l'ensemble des tests de la class EmailService :
-**
 
 ## index.html
 
